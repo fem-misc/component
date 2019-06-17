@@ -6,6 +6,10 @@ module.exports = {
     name: {
       type: 'string',
       message: 'project name'
+    },
+    usage: {
+      type: 'string',
+      message: 'what is this use for'
     }
   },
   helpers: {
